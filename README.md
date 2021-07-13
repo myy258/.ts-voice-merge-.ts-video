@@ -1,5 +1,5 @@
-## 项目会使用到ffmpeg
-- 下载链接：http://ffmpeg.org/download.html
+## 项目说明
+- ffmpeg下载链接：http://ffmpeg.org/download.html
 - 1.ffmpeg.exe存放在ts_mix_transform文件夹中，用于处理视频，python调用此.exe
 - 2.ts2mp4最终返回一个二进制
 - 3.使用是需要将save_path写为该文件夹（ts_mix_transform）的路径
